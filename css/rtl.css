@@ -1,0 +1,38 @@
+.panel-nav ul.navbar-left {
+	margin: 15px;
+}
+
+.panel-nav ul.navbar-left li {
+	list-style: none;
+	display: inline;
+}
+
+.panel-nav ul.navbar-left li a.btn-danger {
+	margin-right: 10px;
+}
+
+.news h3  {
+	font-family:'JF-Flat-regular',Arial,Tahoma,Sans-serif;
+	font-size: 22px;
+}
+
+.sidebar h5 {
+	font-family:'JF-Flat-regular',Arial,Tahoma,Sans-serif;
+	font-size: 20px; 
+}
+
+.articles h3 {
+	font-family:'JF-Flat-regular',Arial,Tahoma,Sans-serif;
+	font-size: 32px;
+}
+
+.articles a.read-more {
+	font-family:'JF-Flat-regular',Arial,Tahoma,Sans-serif;
+	font-size: 20px;
+}
+
+
+.datepicker {
+    max-width: 220px;
+
+}

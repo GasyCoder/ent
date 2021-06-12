@@ -1,0 +1,39 @@
+fullname;class;registration_num;parcour;mention;admission;gender;birthday;birth_localite;region;address;email;phone
+"BEZARA Gasy";L1;2017;SVE;SVTE;Admis;homme;11-11-1111;Mahajanga;BOENY;Majunga;email@mail.com;324567891
+"FLORENT Jean";L1;2018;SVE;SVTE;Exclus;homme;11-11-1111;Antsohihy;SOFIA;Majunga;email1@mail.com;324567891
+"BEZARA Roussel Jullio";L2;2019;SVE;SVTE;Transfert;homme;11-11-1111;Maintirano;BETSIBOKA;Majunga;email2@mail.com;324567891
+"NJARA ELIA";M2;2021;SVE;SVTE;Admis;femme;11-11-1111;Analalava;SOFIA;Majunga;email4@mail.com;324567891
+"RAZAKA ERIKA";M2;2022;SVE;SVTE;Admis;femme;11-11-1111;Antsohihy;SOFIA;Majunga;email5@mail.com;324567891
+"TOMBO HAINA";L3;2023;SVE;SVTE;Admis;homme;11-11-1111;Sambava;SAVA;Majunga;email6@mail.com;324567891
+"AINA SOA";L3;2024;SVE;SVTE;Admis;femme;11-11-1111;Antalaha;SAVA;Majunga;email7@mail.com;324567891
+"JORO AINA";L2;2025;SVE;SVTE;Admis;femme;11-11-1111;Mandritsara;SOFIA;Majunga;email8@mail.com;324567891
+"FETRA RANO";L1;2026;SVE;SVTE;Admis;homme;11-11-1111;Tananarivo;ANALAMANGA;Majunga;email9@mail.com;324567891
+"Andry Jocel";M2;2027;BSE;BSE;Admis;homme;11-11-1111;Mazava;SOFIA;Majunga;emailz.@.com;324567891
+"Andry Jocel";L3;2028;BSE;SVTE;Admis;homme;11-11-1112;Mazava;SOFIA;Majunga;emailr.@.com;324567892
+"Andry Jocel";L1;2029;Chimie;SMS;R;homme;11-11-1113;Mazava;SOFIA;Majunga;emaila.@.com;324567893
+"Andry Jocel";L2;2030;BSE;BSE;Admis;homme;11-11-1114;Mazava;SOFIA;Majunga;emaily.@.com;324567894
+"FETRA RANO";L1;2031;SVE;SVTE;Admis;homme;11-11-1111;Tananarivo;ANALAMANGA;Majunga;email5@mail.com;324567891
+"FETRA RANO";L2;2032;SVE;SVTE;Admis;homme;11-11-1112;Tananarivo;ANALAMANGA;Majunga;email5@mail.com;324567892
+"FETRA RANO";M2;2033;SVE;SVTE;Admis;homme;11-11-1113;Tananarivo;ANALAMANGA;Majunga;email5@mail.com;324567893
+"FETRA RANO";M1;2034;SVE;SVTE;Admis;homme;11-11-1114;Tananarivo;ANALAMANGA;Majunga;email5@mail.com;324567894
+"FETRA RANO";L1;2035;SVE;SVTE;Admis;homme;11-11-1115;Tananarivo;ANALAMANGA;Majunga;email5@mail.com;324567895
+"FETRA RANO";L2;2036;SVE;SVTE;Admis;homme;11-11-1116;Tananarivo;ANALAMANGA;Majunga;email5@mail.com;324567896
+"BEZARA Gasy";L1;2017;SVE;SVTE;Admis;homme;11-11-1111;Mahajanga;BOENY;Majunga;email@mail.com;324567891
+"FLORENT Jean";L1;2018;SVE;SVTE;Exclus;homme;11-11-1111;Antsohihy;SOFIA;Majunga;email1@mail.com;324567891
+"BEZARA Roussel Jullio";L2;2019;SVE;SVTE;Transfert;homme;11-11-1111;Maintirano;BETSIBOKA;Majunga;email2@mail.com;324567891
+"NJARA ELIA";M2;2021;SVE;SVTE;Admis;femme;11-11-1111;Analalava;SOFIA;Majunga;email4@mail.com;324567891
+"RAZAKA ERIKA";M2;2022;SVE;SVTE;Admis;femme;11-11-1111;Antsohihy;SOFIA;Majunga;email5@mail.com;324567891
+"TOMBO HAINA";L3;2023;SVE;SVTE;Admis;homme;11-11-1111;Sambava;SAVA;Majunga;email6@mail.com;324567891
+"AINA SOA";L3;2024;SVE;SVTE;Admis;femme;11-11-1111;Antalaha;SAVA;Majunga;email7@mail.com;324567891
+"JORO AINA";L2;2025;SVE;SVTE;Admis;femme;11-11-1111;Mandritsara;SOFIA;Majunga;email8@mail.com;324567891
+"FETRA RANO";L1;2026;SVE;SVTE;Admis;homme;11-11-1111;Tananarivo;ANALAMANGA;Majunga;email9@mail.com;324567891
+"Andry Jocel";M2;2027;BSE;BSE;Admis;homme;11-11-1111;Mazava;SOFIA;Majunga;emailz.@.com;324567891
+"Andry Jocel";L3;2028;BSE;SVTE;Admis;homme;11-11-1112;Mazava;SOFIA;Majunga;emailr.@.com;324567892
+"Andry Jocel";L1;2029;Chimie;SMS;R;homme;11-11-1113;Mazava;SOFIA;Majunga;emaila.@.com;324567893
+"Andry Jocel";L2;2030;BSE;BSE;Admis;homme;11-11-1114;Mazava;SOFIA;Majunga;emaily.@.com;324567894
+"FETRA RANO";L1;2031;SVE;SVTE;Admis;homme;11-11-1111;Tananarivo;ANALAMANGA;Majunga;email5@mail.com;324567891
+"FETRA RANO";L2;2032;SVE;SVTE;Admis;homme;11-11-1112;Tananarivo;ANALAMANGA;Majunga;email5@mail.com;324567892
+"FETRA RANO";M2;2033;SVE;SVTE;Admis;homme;11-11-1113;Tananarivo;ANALAMANGA;Majunga;email5@mail.com;324567893
+"FETRA RANO";M1;2034;SVE;SVTE;Admis;homme;11-11-1114;Tananarivo;ANALAMANGA;Majunga;email5@mail.com;324567894
+"FETRA RANO";L1;2035;SVE;SVTE;Admis;homme;11-11-1115;Tananarivo;ANALAMANGA;Majunga;email5@mail.com;324567895
+"FETRA RANO";L2;2036;SVE;SVTE;Admis;homme;11-11-1116;Tananarivo;ANALAMANGA;Majunga;email5@mail.com;324567896
